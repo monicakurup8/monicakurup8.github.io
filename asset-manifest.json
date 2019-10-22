@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/monicakurup8/monicakurup8.github.io/static/css/main.b100e6da.chunk.css",
+    "main.js": "/monicakurup8/monicakurup8.github.io/static/js/main.0d940e11.chunk.js",
+    "main.js.map": "/monicakurup8/monicakurup8.github.io/static/js/main.0d940e11.chunk.js.map",
+    "runtime-main.js": "/monicakurup8/monicakurup8.github.io/static/js/runtime-main.1669699a.js",
+    "runtime-main.js.map": "/monicakurup8/monicakurup8.github.io/static/js/runtime-main.1669699a.js.map",
+    "static/js/2.070f0749.chunk.js": "/monicakurup8/monicakurup8.github.io/static/js/2.070f0749.chunk.js",
+    "static/js/2.070f0749.chunk.js.map": "/monicakurup8/monicakurup8.github.io/static/js/2.070f0749.chunk.js.map",
+    "index.html": "/monicakurup8/monicakurup8.github.io/index.html",
+    "precache-manifest.98eb881f36bc6640f4beb467d127ad34.js": "/monicakurup8/monicakurup8.github.io/precache-manifest.98eb881f36bc6640f4beb467d127ad34.js",
+    "service-worker.js": "/monicakurup8/monicakurup8.github.io/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/monicakurup8/monicakurup8.github.io/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/monicakurup8/monicakurup8.github.io/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1669699a.js",
+    "static/js/2.070f0749.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.0d940e11.chunk.js"
+  ]
+}
